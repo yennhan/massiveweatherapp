@@ -12,6 +12,8 @@ For Massive infinity interview weather app coding.
 ## Not implemented 
 - Timezone (SGT,EST.. etc)
 - SecondScreen upon clicking into it.
+
+## Should be implemented for optimisation and processing
 - Wrapping the openweather API on own cloud-server to reduce the processing required on mobile.
 
 ## Problem with the openweather api.
