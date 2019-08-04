@@ -15,5 +15,5 @@ For Massive infinity interview weather app coding.
 
 ## Problem with the openweather api.
 - Type of predicted weather keeps fluctuates (sometimes cloud, sometimes rainy)
-- Country is listed as 'MY', which means malaysia but name is 'SG'.
+- Country is listed as 'MY', which means malaysia but name is 'Singapore' and search on Singapore.
 - https://api.openweathermap.org/data/2.5/weather?q=Singapore,Singapore&units=metric&appid=f86993757cb89c83afef1c855614b72a
