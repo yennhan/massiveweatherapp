@@ -1,6 +1,7 @@
 # massiveweatherapp
 For Massive infinity interview weather app coding.
-![](https://mikeleow.s3-ap-southeast-1.amazonaws.com/massiveinterviewscreenshot.png)
+
+
 ## Features implemented
 -  Timestamp
 -  API calling and processing datas.
@@ -17,3 +18,5 @@ For Massive infinity interview weather app coding.
 - Type of predicted weather keeps fluctuates (sometimes cloud, sometimes rainy)
 - Country is listed as 'MY', which means malaysia but name is 'Singapore' and search on Singapore.
 - https://api.openweathermap.org/data/2.5/weather?q=Singapore,Singapore&units=metric&appid=f86993757cb89c83afef1c855614b72a
+
+![](https://mikeleow.s3-ap-southeast-1.amazonaws.com/massiveinterviewscreenshot.png)
