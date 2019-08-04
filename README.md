@@ -1,6 +1,6 @@
 # massiveweatherapp
 For Massive infinity interview weather app coding.
-
+![](https://mikeleow.s3-ap-southeast-1.amazonaws.com/massiveinterviewscreenshot.png)
 ## Features implemented
 -  Timestamp
 -  API calling and processing datas.
